@@ -98,3 +98,10 @@ This project is part of my continuous journey to apply data-driven insights to r
 1. Clone this repository:
    ```bash
    git clone https://github.com/username/netflix-data-analysis.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the analysis notebook:
+   ```bash
+   jupyter notebook Netflix_Data_Analysis.ipynb
+
