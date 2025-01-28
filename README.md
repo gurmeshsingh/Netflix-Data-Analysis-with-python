@@ -53,17 +53,6 @@ Welcome to my **Netflix Data Analysis Project**, where I delve into an extensive
 4. **Lowest-Rated Movie**: 
    - *The United States vs. Billie Holiday* scored the lowest popularity and spanned multiple genres, including **Music**, **Drama**, and **History**.
 
----
-
-## 📈 Visual Highlights
-
-### 1️⃣ Genre Popularity
-![Genre Distribution](https://via.placeholder.com/600x300.png?text=Genre+Popularity+Graph)
-
-### 2️⃣ Yearly Movie Trends
-![Yearly Trends](https://via.placeholder.com/600x300.png?text=Yearly+Trends+Graph)
-
----
 
 ## 🤝 Why This Project?
 
