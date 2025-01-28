@@ -98,7 +98,7 @@ This project is part of my continuous journey to apply data-driven insights to r
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/netflix-data-analysis.git
+   git clone https://github.com/gurmeshsingh/Netflix-Data-Analysis-with-python.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
