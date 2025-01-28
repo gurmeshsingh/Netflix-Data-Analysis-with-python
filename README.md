@@ -72,12 +72,6 @@ This project demonstrates:
 
 ---
 
-## 💼 About Me
-
-Hi, I'm **Gurmesh Singh**, a passionate data enthusiast with expertise in:
-- Data Analytics
-- Business Intelligence
-- Visualization and Insights
 
 This project is part of my continuous journey to apply data-driven insights to real-world problems. Feel free to explore the code and insights, and reach out for collaborations or discussions!
 
