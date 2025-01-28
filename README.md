@@ -1,6 +1,7 @@
 # Netflix Data Analysis Project 📊🎥
 
-![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.svg)
+![Netflix Logo](![Netflix_Logo_CMYK](https://github.com/user-attachments/assets/e9a19631-ac8d-45ac-8e0d-89c104174958)
+)
 
 ## 🚀 Project Overview
 
