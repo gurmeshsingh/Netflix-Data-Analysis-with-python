@@ -87,5 +87,5 @@ This project is part of my continuous journey to apply data-driven insights to r
    pip install -r requirements.txt
 3. Run the analysis notebook:
    ```bash
-   jupyter notebook Netflix_Data_Analysis.ipynb
+   jupyter notebook Netflix Data Analysis.ipynb
 
